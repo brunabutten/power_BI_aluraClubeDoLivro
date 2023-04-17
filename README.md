@@ -15,11 +15,9 @@ Plataforma: [Alura](https://www.alura.com.br/)
 Carga Horária: 8h
 
 
-
-
-
-
 Fiz as artes dos dashboards no [Canva](https://www.canva.com) 😉
+
+Publicação no [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7021594048935124992/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7021594048935124992%29)!
 
 <h1 align="center">Meus Dashboards produzidos do desafio</h1>
 <p dir="auto"><img src="https://github.com/brunabutten/power_BI_aluraClubeDoLivro/blob/main/Dashboard%20com%20Power%20BI%20visualizando%20dados/Dashboard1.png" width="100%" style="max-width: 100%;"></p>
